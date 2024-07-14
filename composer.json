@@ -1,0 +1,15 @@
+{
+    "name": "joran/kvtv-plainkit-template",
+    "description": "A Kirby CMS template with Vite, Vue.js, and Tailwind CSS.",
+    "type": "project",
+    "require": {
+        "getkirby/cms": "^4.3",
+        "arnoson/kirby-vite": "^5.3"
+    },
+    "license": "MIT",
+    "config": {
+        "allow-plugins": {
+            "getkirby/composer-installer": true
+        }
+    }
+}

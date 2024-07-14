@@ -1,0 +1,44 @@
+# macOS system files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# VS Code settings
+.vscode/.*
+
+# Frontend build output
+/public/assets/
+/public/dist/
+
+# Kirby core and dependencies
+kirby
+vendor
+
+# Kirby site plugins, keep custom plugins
+site/plugins/*
+!site/plugins/custom
+
+# Kirby media, keep index.html
+/public/media/*
+!/public/media/index.html
+
+# Kirby storage, keep .gitkeep files
+/storage/accounts/*
+!/storage/accounts/.gitkeep
+
+/storage/cache/*
+!/storage/cache/.gitkeep
+
+/storage/logs/*
+!/storage/logs/.gitkeep
+
+/storage/sessions/*
+!/storage/sessions/.gitkeep
+
+# Kirby license and config files
+/site/config/.license
+/site/config/vite.config.php
+
+# Ignore environment configuration
+.env
