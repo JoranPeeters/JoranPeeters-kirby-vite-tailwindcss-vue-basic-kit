@@ -1,21 +1,21 @@
 # KVTV-Kirby-Stack
 
-Welcome to the **KVTV-Kirby-Stack**! This stack uses **Kirby CMS**, **Vite**, **Tailwind CSS**, and **Vue.js** for a powerful, modern web development setup.
+Welcome to the **KVTV-Kirby-Stack**! This stack combines **Kirby CMS**, **Vite**, **Tailwind CSS**, and **Vue.js** to create a powerful, modern web development environment.
 
-## Features
+## ✨ Features
 
 - **Kirby CMS**: A flexible and easy-to-use content management system.
 - **Vite**: A fast and efficient build tool and development server.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **Vue.js**: A progressive JavaScript framework for building user interfaces.
 
-## Getting Started
+## 🚀 Getting Started
 
-Follow these instructions to get your development environment set up.
+Follow these instructions to set up your development environment.
 
 ### Prerequisites
 
-- Ensure you have a local server running (e.g., Laravel Valet, MAMP, XAMPP).
+- A local server running (e.g., Laravel Valet, MAMP, XAMPP).
 - PHP installed.
 - Node.js and npm installed.
 
@@ -25,6 +25,7 @@ Follow these instructions to get your development environment set up.
 
    ```sh
    git clone https://github.com/JoranPeeters/kirby-vite-tailwindcss-vue-plainkit.git
+
    ```
 
 2. Navigate to the project directory:
@@ -38,7 +39,7 @@ Follow these instructions to get your development environment set up.
    ```sh
    composer install
    ```
-   
+
 ### Development
 
 1. Start the Kirby CMS with PHP's built-in server:
@@ -63,7 +64,7 @@ To build the assets for production, run:
    npm run build
    ```
 
-### Project Structure
+### 📂 Project Structure
 
 ```sh
 kvtv-kirby-stack/
@@ -97,7 +98,7 @@ kvtv-kirby-stack/
 └── vite.config.js
 ```
 
-### License
+### 📜 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
