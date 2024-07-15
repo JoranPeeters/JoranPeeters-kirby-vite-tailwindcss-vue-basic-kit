@@ -38,13 +38,7 @@ Follow these instructions to get your development environment set up.
    ```sh
    composer install
    ```
-
-3. Install JavaScript dependencies with npm:
-
-   ```sh
-   npm install
-   ```
-
+   
 ### Development
 
 1. Start the Kirby CMS with PHP's built-in server:
