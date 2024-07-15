@@ -15,7 +15,7 @@ Follow these instructions to set up your development environment.
 
 ### Prerequisites
 
-- A local server running (e.g., Laravel Valet, MAMP, XAMPP).
+- A local server running (e.g., Laravel Herd, MAMP, XAMPP).
 - PHP installed.
 - Node.js and npm installed.
 
