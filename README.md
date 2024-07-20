@@ -24,7 +24,7 @@ Follow these instructions to set up your development environment.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/JoranPeeters/kirby-vite-tailwindcss-vue-plainkit.git
+   git clone https://github.com/JoranPeeters/kirby-vite-tailwindcss-vue-basic-kit.git
 
    ```
 
