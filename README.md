@@ -31,7 +31,7 @@ Follow these instructions to set up your development environment.
 2. Navigate to the project directory:
 
    ```sh
-   cd kirby-vite-tailwindcss-vue-plainkit
+   cd kirby-vite-tailwindcss-vue-basic-kit
    ```
 
 3. Install PHP dependencies with Composer:
